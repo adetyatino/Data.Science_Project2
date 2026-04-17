@@ -3,3 +3,8 @@ streamlit==1.56.0
 joblib==1.5.2
 plotly==6.7.0
 numpy==2.2.6
+tensorflow==2.21.0
+keras==3.14.0
+scikit-learn==1.7.2
+sklearn-compat==0.1.5
+xgboost==3.2.0
